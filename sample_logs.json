@@ -698,5 +698,40 @@
     "username": "bob",
     "source_ip": "192.168.1.26",
     "outcome": "success"
-  }
+  },
+{
+  "timestamp": "2026-10-03T09:00:00Z",
+  "hostname": "WORKSTATION-07",
+  "username": "george",
+  "source_ip": "192.168.1.31",
+  "outcome": "failure"
+},
+{
+  "timestamp": "2026-10-03T09:02:00Z",
+  "hostname": "WORKSTATION-07",
+  "username": "george",
+  "source_ip": "192.168.1.31",
+  "outcome": "failure"
+},
+{
+  "timestamp": "2026-10-03T09:04:00Z",
+  "hostname": "WORKSTATION-07",
+  "username": "george",
+  "source_ip": "192.168.1.31",
+  "outcome": "failure"
+},
+{
+  "timestamp": "2026-10-03T09:06:00Z",
+  "hostname": "WORKSTATION-07",
+  "username": "george",
+  "source_ip": "192.168.1.31",
+  "outcome": "failure"
+},
+{
+  "timestamp": "2026-10-03T09:08:00Z",
+  "hostname": "WORKSTATION-07",
+  "username": "george",
+  "source_ip": "192.168.1.31",
+  "outcome": "failure"
+}
 ]
