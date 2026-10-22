@@ -1,0 +1,702 @@
+[
+  {
+    "timestamp": "2026-10-01T08:00:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T08:11:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T08:22:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T08:33:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T08:44:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T08:55:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T09:07:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T09:18:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T09:29:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T09:40:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T09:51:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T10:02:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T10:14:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-01T10:25:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T10:36:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T10:47:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T10:58:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T11:09:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T11:21:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T11:32:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T11:43:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T11:54:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T12:05:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T12:16:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T12:28:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T12:39:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T12:50:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T13:01:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T13:12:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T13:23:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T13:35:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T13:46:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T13:57:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T14:08:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T14:19:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-01T14:30:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T08:00:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-02T08:11:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-02T08:22:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-02T08:33:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T08:44:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-02T08:55:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T09:07:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-02T09:18:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-02T09:29:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T09:40:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T09:51:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-02T10:02:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T10:14:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T10:25:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T10:36:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T10:47:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T10:58:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T11:09:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T11:21:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T11:32:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T11:43:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T11:54:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T12:05:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T12:16:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T12:28:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T12:39:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T12:50:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T13:01:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T13:12:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T13:23:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T13:35:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-02T13:46:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T08:00:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-03T08:11:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-03T08:22:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T08:33:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T08:44:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-03T08:55:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T09:07:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-03T09:18:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T09:29:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T09:40:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T09:51:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "failure"
+  },
+  {
+    "timestamp": "2026-10-03T10:02:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T10:14:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T10:25:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T10:36:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T10:47:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T10:58:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T11:09:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T11:21:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T11:32:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T11:43:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T11:54:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T12:05:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T12:16:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T12:28:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T12:39:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T12:50:00Z",
+    "hostname": "WORKSTATION-03",
+    "username": "carol",
+    "source_ip": "192.168.1.27",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T13:01:00Z",
+    "hostname": "WORKSTATION-04",
+    "username": "david",
+    "source_ip": "192.168.1.28",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T13:12:00Z",
+    "hostname": "WORKSTATION-05",
+    "username": "emma",
+    "source_ip": "192.168.1.29",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T13:23:00Z",
+    "hostname": "WORKSTATION-06",
+    "username": "frank",
+    "source_ip": "192.168.1.30",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T13:35:00Z",
+    "hostname": "WORKSTATION-01",
+    "username": "alice",
+    "source_ip": "192.168.1.25",
+    "outcome": "success"
+  },
+  {
+    "timestamp": "2026-10-03T13:46:00Z",
+    "hostname": "WORKSTATION-02",
+    "username": "bob",
+    "source_ip": "192.168.1.26",
+    "outcome": "success"
+  }
+]
